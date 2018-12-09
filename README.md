@@ -8,3 +8,10 @@ FIFO
 - length 
 - isEmpty
 
+## Stack
+FILO 
+- push
+- pop
+- peek
+- length 
+- isEmpty
