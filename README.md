@@ -15,3 +15,14 @@ FILO
 - peek
 - length 
 - isEmpty
+
+## Linked List 
+Node 
+- head
+- tail 
+- length 
+- push 
+- pop
+- get 
+- delete 
+- isEmpty 
