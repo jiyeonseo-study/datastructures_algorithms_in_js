@@ -26,3 +26,8 @@ Node
 - get 
 - delete 
 - isEmpty 
+
+## Graph Data Structure 
+a collection of nodes (a.k.a vertices)
+Nodes may point to other nodes, known as edges
+- Node / Edge
