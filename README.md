@@ -43,3 +43,11 @@ Nodes may point to other nodes, known as edges
 ### Breadth first search
 
 a graph search algorithm that starts at one node and visits neighboring nodes as widely as possible before going further down any other path.
+
+## Tree Data Structure
+
+Graphs without cycles
+A Cycle is three or more nodes connected in a circuitous path
+
+Graphs : have neighbors, no hierarchical 
+Trees : have children, hierarchical 
