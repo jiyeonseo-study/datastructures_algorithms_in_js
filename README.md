@@ -49,5 +49,10 @@ a graph search algorithm that starts at one node and visits neighboring nodes as
 Graphs without cycles
 A Cycle is three or more nodes connected in a circuitous path
 
-Graphs : have neighbors, no hierarchical 
-Trees : have children, hierarchical 
+Graphs : have neighbors, no hierarchical
+Trees : have children, hierarchical
+
+## Binary Tree
+
+- trees whose nodes can only have up to two children
+- left / right
